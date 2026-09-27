@@ -1,0 +1,173 @@
+0
+101
+Dr Ahmed Khan
+1
+3
+1001
+Ali Raza
+ECG
+1002
+Sara Malik
+Angiography
+1003
+Hassan Ahmed
+Heart_Checkup
+
+0
+102
+Dr Fatima Noor
+1
+3
+1004
+Ayesha Khan
+Bypass_Surgery
+1005
+Umar Farooq
+Stress_Test
+1006
+Maryam Ali
+ECG
+
+1
+201
+Dr Bilal Shah
+1
+3
+2001
+Ahmed Saeed
+EEG
+2002
+Zain Ali
+Brain_MRI
+2003
+Amna Tariq
+Nerve_Test
+
+1
+202
+Dr Hina Qureshi
+0
+3
+2004
+Sana Imran
+Migraine_Treatment
+2005
+Usman Khalid
+Spinal_Assessment
+2006
+Faizan Noor
+EEG
+
+2
+301
+Dr Kamran Malik
+1
+3
+3001
+Ali Hassan
+Trauma_Care
+3002
+Hira Khan
+Fracture_Treatment
+3003
+Asad Raza
+Emergency_Surgery
+
+2
+302
+Dr Nida Javed
+1
+3
+3004
+Mahnoor Ali
+Burn_Treatment
+3005
+Haris Ahmed
+Stitches
+3006
+Zoya Malik
+First_Aid
+
+3
+401
+Dr Ayesha Siddiqui
+1
+3
+4001
+Mehak Noor
+Prenatal_Checkup
+4002
+Sadia Khan
+Ultrasound
+4003
+Anam Raza
+Delivery_Consultation
+
+3
+402
+Dr Rabia Tariq
+0
+3
+4004
+Farah Malik
+Fertility_Consultation
+4005
+Noor Fatima
+Gyne_Exam
+4006
+Areeba Ali
+Prenatal_Checkup
+
+4
+501
+Dr Imran Baig
+1
+3
+5001
+Ahmed Khan
+Chemotherapy
+5002
+Sarah Ali
+Radiation_Therapy
+5003
+Usman Raza
+Cancer_Screening
+
+4
+502
+Dr Sana Sheikh
+1
+3
+5004
+Maryam Noor
+Biopsy
+5005
+Hassan Malik
+Immunotherapy
+5006
+Aliya Khan
+Follow_Up
+
+4
+503
+Dr Tariq Mahmood
+1
+2
+5007
+Amina Raza
+Chemotherapy
+5008
+Saad Khan
+Cancer_Screening
+
+4
+504
+Dr Nadia Aslam
+0
+2
+5009
+Hiba Noor
+Radiation_Therapy
+5010
+Danish Ali
+Biopsy
